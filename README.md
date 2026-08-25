@@ -13,7 +13,7 @@ I'm a 2nd year engineering student who enjoys learning by **building, experiment
 I'm interested in **programming, AI/ML and creative technology**.
 I like taking an idea and turning it into something I can actually see and use.
 
-                       `learning` ✦ `building` ✦ `experimenting`
+                          `learning` ✦ `building` ✦ `experimenting`
 
 ---
 
