@@ -9,7 +9,7 @@
 ## 🌱 ABOUT ME
 
 Hey! I'm **Vaishnavi** 👋
-I'm a 2nd year engineering student who enjoys learning by **building, experimenting and creating**.
+I'm a 3rd year engineering student who enjoys learning by **building, experimenting and creating**.
 I'm interested in **programming, AI/ML and creative technology**.
 I like taking an idea and turning it into something I can actually see and use.
 
