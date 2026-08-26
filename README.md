@@ -39,21 +39,6 @@ I like taking an idea and turning it into something I can actually see and use.
 
 ---
 
-## 🌱 CURRENTLY LEARNING
-
-<div align="center">
-<table>
-<tr>
-<td bgcolor="#D88C8C"><b>REACT</b></td>
-<td bgcolor="#7A7B3A"><b>TYPESCRIPT</b></td>
-<td bgcolor="#D88C8C"><b>TAILWIND CSS</b></td>
-</tr>
-</table>
-<br>
-Learning these through real projects and experiments — still early in the journey, and that's kind of the point. 🌱
-</div>
-
----
 
 ## ✨ THINGS I'VE BUILT
 
